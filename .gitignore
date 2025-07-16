@@ -28,3 +28,7 @@ core
 
 # macOS
 .DS_Store
+#CLion
+.idea
+#vscode
+.vscode
